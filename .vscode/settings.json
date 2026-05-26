@@ -1,0 +1,8 @@
+{
+    "chat.agent.enabled": true,
+    "chat.useAgentSkills":true,
+    "chat.includeApplyingInstructions":true,
+    "chat.subagents.allowInvocationsFromSubagents":true,
+    "chat.agentFilesLocations":{".github/agents":true},
+    "chat.agentSkillsLocations":{".github/skills":true}
+}
