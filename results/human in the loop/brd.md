@@ -1,0 +1,7 @@
+| ID | Requirement | Priority | Rationale |
+|----|-------------|----------|-----------|
+| BR-001 | The About Me page must present a professional portfolio layout with dedicated sections for bio, skills, experience, projects, education, testimonials, and contact information. | Must Have | Recruiters need a clear, organized view of qualifications and career highlights in a single page. |
+| BR-002 | The page must be deployed to GitHub Pages to ensure public availability and easy sharing of the portfolio URL. | Must Have | GitHub Pages provides a standard, accessible hosting solution for recruiter review and portfolio delivery. |
+| BR-003 | The content should be written in a professional tone and should include explicit networking goals that align with software engineering recruitment and career development. | Should Have | Professional tone and networking goals help position the candidate as recruiter-ready and focused on growth. |
+| BR-004 | The design should support usability and technical quality, including responsive layout, readable typography, intuitive section navigation, and basic accessibility considerations. | Should Have | Good UX and technical design increase engagement and make the portfolio easier for recruiters to evaluate quickly. |
+| BR-005 | The page could include recruiter-focused details such as hiring interests, collaboration preferences, and testimonial snippets to strengthen trust and decision-making. | Could Have | Recruiter-facing signals improve relevance and help differentiate the candidate in the hiring process. |

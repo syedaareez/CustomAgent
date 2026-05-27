@@ -1,0 +1,7 @@
+| ID | Requirement | Category | Target | Priority |
+|----|-------------|----------|--------|----------|
+| NFR-001 | The portfolio page must load within 1.5 seconds on a standard 4G mobile connection to ensure recruiter access is fast and reliable. | Performance | ≤ 1.5s on 4G | Must have |
+| NFR-002 | The page must meet WCAG 2.1 AA accessibility standards, including keyboard navigation, sufficient color contrast, and meaningful alt text for images. | Accessibility | WCAG 2.1 AA compliant | Must have |
+| NFR-003 | The site must support responsive rendering across desktop, tablet, and mobile screens, preserving layout and readability for recruiters on any device. | Scalability | Responsive across 320px–1920px | Must have |
+| NFR-004 | Personal data such as email address and social links must be protected by standard HTTPS encryption and not exposed in plain text in page source when possible. | Security | HTTPS and privacy-safe contact info | Should have |
+| NFR-005 | Visual and interactive elements must maintain consistent performance under at least 100 concurrent page views per minute to support recruiter traffic spikes. | Scalability | 100 requests/min without degradation | Could have |

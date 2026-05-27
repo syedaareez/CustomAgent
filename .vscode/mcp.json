@@ -1,0 +1,36 @@
+{
+  "servers": {
+    "com.atlassian/atlassian-mcp-server": {
+      "type": "stdio",
+      "command": "uvx",
+      "args": [
+        "mcp-atlassian"
+      ],
+      "env": {
+        "JIRA_URL": "${input:jira-url}",
+        "JIRA_USERNAME": "${input:jira-username}",
+        "JIRA_API_TOKEN": "${input:jira-api-token}"
+      }
+    }
+  },
+  "inputs": [
+    {
+      "id": "jira-url",
+      "type": "promptString",
+      "description": "JIRA URL (e.g. https://your-domain.atlassian.net)",
+      "password": false
+    },
+    {
+      "id": "jira-username",
+      "type": "promptString",
+      "description": "JIRA Username (email)",
+      "password": false
+    },
+    {
+      "id": "jira-api-token",
+      "type": "promptString",
+      "description": "JIRA API Token",
+      "password": true
+    }
+  ]
+}

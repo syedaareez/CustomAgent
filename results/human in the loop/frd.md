@@ -1,0 +1,7 @@
+| ID | Feature | Acceptance Criteria | Priority |
+|----|---------|---------------------|----------|
+| FR-001 | About Me page content structure | Given a recruiter visits the page, when they scroll through the About Me page, then they see clearly separated sections for bio, skills, experience, projects, education, testimonials, networking goals, and contact information. | Must |
+| FR-002 | Professional tone and recruiter focus | Given the page content is published, when a recruiter reads the page, then the language is concise, professional, and highlights software engineering strengths, career goals, and collaboration readiness. | Must |
+| FR-003 | GitHub Pages deployment | Given the repository is configured, when the project is pushed to GitHub, then the About Me page is deployed automatically on GitHub Pages and accessible via the repository site URL. | Must |
+| FR-004 | Responsive design and UX clarity | Given the page is viewed on desktop or mobile, when a user navigates the page, then the layout adjusts responsively, navigation is easy, headings are scannable, and key items like contact details and networking goals are prominent. | Should |
+| FR-005 | Technical and visual polish | Given the page is live, when a recruiter inspects the page, then it uses a clean visual hierarchy, consistent styling, optimized load performance, and accessible text contrast. | Could |

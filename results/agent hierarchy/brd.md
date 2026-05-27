@@ -1,0 +1,7 @@
+| ID | Requirement | Priority | Rationale |
+|----|-------------|----------|-----------|
+| BR-001 | The "About Me" portfolio page must clearly communicate the candidate's professional summary, key skills, experience highlights, and contact details in a single-scroll layout. | Must Have | Recruiters need an immediate understanding of qualifications and contact options without navigation friction. |
+| BR-002 | The page should include structured sections for personal branding, professional story, core competencies, notable projects, and recruiter-focused call-to-action. | Must Have | A consistent content structure helps recruiters scan relevant information quickly and compare candidates effectively. |
+| BR-003 | Design should prioritize a clean, modern aesthetic with visual hierarchy, responsive layout, and accessible typography and color contrast. | Should Have | Good design and accessibility improve recruiter engagement and ensure the page works well on desktop and mobile devices. |
+| BR-004 | Technical implementation should support fast load times, easy content updates, and compatibility with common hosting setups. | Should Have | Recruiters expect a polished experience, and a lightweight, maintainable page reduces risk of broken or slow presentation. |
+| BR-005 | The UX should focus on recruiter needs by minimizing distractions, highlighting achievements, and offering a clear action path to connect or learn more. | Must Have | A recruiter-centric experience increases the chance of follow-up and reduces cognitive load during candidate evaluation. |
